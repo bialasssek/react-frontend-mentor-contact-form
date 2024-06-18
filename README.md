@@ -39,8 +39,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://www.frontendmentor.io/challenges/ping-single-column-coming-soon-page-5cadd051fec04111f7b848da/hub](https://www.frontendmentor.io/challenges/ping-single-column-coming-soon-page-5cadd051fec04111f7b848da/hub)
-- Live Site URL: [https://bialasssek.github.io/react-frontend-mentor-ping-page/](https://bialasssek.github.io/react-frontend-mentor-ping-page/)
+- Solution URL: [https://www.frontendmentor.io/solutions/responsive-contact-form-using-react-FP1OHPg5dc](https://www.frontendmentor.io/solutions/responsive-contact-form-using-react-FP1OHPg5dc)
+- Live Site URL: [https://bialasssek.github.io/react-frontend-mentor-contact-form/](https://bialasssek.github.io/react-frontend-mentor-contact-form/)
 
 ## My process
 
